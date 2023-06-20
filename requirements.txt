@@ -11,7 +11,7 @@ imagecodecs==2021.8.26
 tifffile==2021.7.2
 daal4py==2021.6.0
 setuptools==65.5.0
-cryptography==38.0.1
+cryptography==41.0.0
 keyring==23.4.0
 pyzmq==23.2.0
 conda==22.9.0
