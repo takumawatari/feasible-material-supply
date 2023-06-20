@@ -34,7 +34,7 @@ pyobjc-framework-coreservices==8.5
 pyobjc-core==8.5
 click==8.0.4
 pycurl==7.45.1
-ipython==7.31.1
+ipython==8.10.0
 ipywidgets==7.6.5
 jupyter-client==7.4.7
 pytest==7.1.2
