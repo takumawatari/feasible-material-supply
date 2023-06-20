@@ -41,7 +41,7 @@ pytest==7.1.2
 ipykernel==6.15.2
 sip==6.6.2
 notebook==6.5.2
-nbconvert==6.4.4
+nbconvert==6.5.1
 jupyter-console==6.4.3
 tornado==6.3.2
 pydocstyle==6.1.1
