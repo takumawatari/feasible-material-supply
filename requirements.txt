@@ -134,7 +134,7 @@ gmpy2==2.1.2
 zict==2.1.0
 sortedcollections==2.1.0
 charset-normalizer==2.0.4
-werkzeug==2.0.3
+werkzeug==2.2.3
 shapely==2.0.1
 xlrd==2.0.1
 tomli==2.0.1
