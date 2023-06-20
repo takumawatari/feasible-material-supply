@@ -199,7 +199,7 @@ partd==1.2.0
 sniffio==1.2.0
 sphinxcontrib-serializinghtml==1.1.5
 munkres==1.1.4
-flask==1.1.2
+flask==2.2.5
 appscript==1.1.2
 greenlet==1.1.1
 iniconfig==1.1.1
