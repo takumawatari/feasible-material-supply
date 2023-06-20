@@ -241,7 +241,7 @@ xlwings==0.27.15
 argh==0.26.2
 rope==0.22.0
 scikit-image==0.19.2
-future==0.18.2
+future==0.18.3
 jedi==0.18.1
 docutils==0.18.1
 pyrsistent==0.18.0
