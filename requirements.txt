@@ -43,7 +43,7 @@ sip==6.6.2
 notebook==6.5.2
 nbconvert==6.4.4
 jupyter-console==6.4.3
-tornado==6.2
+tornado==6.3.2
 pydocstyle==6.1.1
 pyyaml==6.0
 isort==5.9.3
