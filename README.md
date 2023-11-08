@@ -4,4 +4,4 @@ This repository contains optimization models and datasets to estimate the feasib
 
 The details and results of this model are published in the following journal article:
 
->Watari, T. et al. () Feasible supply of steel and cement within a carbon budget is likely to fall short of expected global demand, doi
+>Watari, T. et al. (2023) Feasible supply of steel and cement within a carbon budget is likely to fall short of expected global demand, Nature Communications
