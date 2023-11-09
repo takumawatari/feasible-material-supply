@@ -5,3 +5,5 @@ This repository contains optimization models and datasets to estimate the feasib
 The details and results of this model are published in the following journal article:
 
 >Watari, T. et al. (2023) Feasible supply of steel and cement within a carbon budget is likely to fall short of expected global demand, Nature Communications
+
+Cite the code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10086840.svg)](https://doi.org/10.5281/zenodo.10086840)
